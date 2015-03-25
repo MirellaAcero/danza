@@ -1,0 +1,88 @@
+.box-blog {
+	background-color: #F5F5F5;
+	border-top: 1px solid gray;
+}
+
+.name-blog {
+	margin: 0 auto;
+	text-align: center;
+	color: gray;
+	font-size: 45px;
+	padding: 100px 0 0px;
+}
+
+.linea3 {
+	width: 1050px;
+	margin: 0 auto 90px;
+	border-bottom: 1px solid gray;
+	top: 30px;
+	position: relative;
+}
+
+
+.row {
+	/* margin-left: 0; */
+	/* margin-right: 0px; */
+	min-height: 21px;
+	width: 1050px;
+	margin: 0 auto;
+}
+
+.col-4 {
+	/* (4 / 12) x 100 */
+	width: 33.33%;
+}
+
+.foto {
+	height: 280px;
+	background-color: gray;
+}
+
+.col-8 {
+	/* (8 / 12) x 100 */
+	width: 66.666667%;
+}
+
+.articulo {
+	height: 280px;
+	background-color: #E0E0E0;
+}
+
+[class*="col-"] {
+	min-height: 7px;
+	margin-bottom: 3px;
+	padding: 10px 0px;
+	float: left;
+}
+
+.title-articulo {
+	color: gray;
+	padding: 23px 23px 0;
+	font-size: 20px;
+}
+
+.fecha {
+	color: gray;
+	padding: 15px 23px 0;
+	color:#BDBDBD;
+}
+
+.parrafo {
+	color: gray;
+	padding: 15px 23px 0;
+	line-height: 1.4;
+}
+
+.buttom {
+	width: 200px;
+	height: 50px;
+	border-radius: 3%;
+	margin: 23px 23px 0;
+	border: 1px solid gray;
+}
+
+.ver-mas {
+	text-align: center;
+	padding: 16px;
+	color: #BDBDBD;
+}

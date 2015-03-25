@@ -1,0 +1,219 @@
+/* PROYECTO */
+body {
+	font-family: arial;
+	width: 100%;
+	height: 100%;
+}
+
+h1 {
+text-align: center;
+padding: 15px 0;
+font-size: 40px;
+font-family: 'Roboto', sans-serif;
+}
+
+a:hover {
+	color: #FCE4EC;
+}
+
+.navegation {
+	position: fixed;
+	background-color: #AD1457;
+	z-index: 1000;
+	width: 100%;
+}
+
+.logo {
+	color: white;
+	font-family: 'Tangerine', cursive;
+	text-decoration: none;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.row {
+	margin: 0px;
+	padding: 0px 0;
+	position: relative;
+}
+
+
+[class*="col-"] {
+	min-height: 7px;
+	margin-bottom: 0px;
+	padding: 0 0px;
+	float: left;
+}
+
+.col-12 {
+	/* (12 / 12) x 100 */
+	width: 100%;
+}
+
+.cd-fixed-bg {
+  min-height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+ 
+.cd-fixed-bg.cd-bg-1 {
+  background-image: url("../img/fondo11.jpg");
+}
+.cd-fixed-bg.cd-bg-2 {
+  background-image: url("../img/fondo2.jpg");
+}
+.cd-fixed-bg.cd-bg-3 {
+  background-image: url("img/cd-background-3.jpg");
+}
+.cd-fixed-bg.cd-bg-4 {
+  background-image: url("img/cd-background-4.jpg");
+}
+ 
+.cd-scrolling-bg {
+  min-height: 100%;
+}
+
+.slider {
+	height: 100%;
+}
+
+.linea {
+	border-bottom-color: 2px solid gray;
+}
+
+.clases {
+	height: 330px;
+	background-color: white;
+}
+
+.frase {
+	position: relative;
+	margin: 0 auto;
+	font-size: 25px;
+	text-align: center;
+	width: 50%;
+	top: 50px;
+	color: gray;
+	font-family: 'Roboto', sans-serif;
+}
+
+.line {
+	width: 170px;
+	margin: 0 auto;
+	border-bottom: 1px solid gray;
+	top: 90px;
+	position: relative;
+}
+
+.oferta {
+	margin: 0 auto;
+	width: 250px;
+	height: 50px;
+	background-color: #E91E63;
+	top: 140px;
+	position: relative;
+	border-radius: 2%;
+}
+.oferta-clases {
+	color: white;
+	text-align: center;
+	padding: 14px;
+	font-size: 20px;
+}
+
+.col-6 {
+	/* (6 / 12) x 100 */
+	width: 50%;
+} 
+
+img {
+	width: 100%;
+}
+
+
+.grid-instructores {
+	position: relative;
+}
+
+.instructores {
+	border: 0px solid white;
+	font-size: 0px;
+}
+
+.nuestros-inst {
+	width: 33.33%;
+	background-color: #E91E63;
+	position: absolute;
+	padding: 1%;
+	bottom: 0px;
+	left: 33.33%;
+	text-align: center;
+}
+
+.titulo {
+	color: white;
+	font-size: 25px;
+}
+
+.inspiracion {
+	background-color: white;
+}
+
+.text-inspiracion {
+	text-align: center;
+	font-size: 40px;
+	padding: 100px;
+	color:#BDBDBD;
+	font-family: 'Roboto', sans-serif;
+}
+
+.ubicacion {
+	background-color: white;
+}
+
+.text-ubicacion {
+	text-align: center;
+	font-size: 35px;
+	padding: 50px;
+	color: gray;
+	font-family: 'Roboto', sans-serif;
+	border-top: 1px solid gray;
+}
+
+.mapa {
+	position: relative;
+	width: 100%;
+	margin: 0 auto;
+	padding-bottom: ;
+}
+
+.formulario {
+	height: 600px;
+}
+
+.text-formulario {
+	text-align: center;
+	font-size: 35px;
+	padding: 50px;
+	color: gray;
+	font-family: 'Roboto', sans-serif;
+}
+
+.box-formulario {
+	margin: 0 auto;
+	width: 300px;
+}
+
+.footer {
+	height: 60px;
+	background-color: #212121;
+}
+
+
