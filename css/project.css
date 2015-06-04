@@ -18,7 +18,7 @@ a:hover {
 
 .navegation {
 	position: fixed;
-	background-color: #AD1457;
+	background-color: #274147;
 	z-index: 1000;
 	width: 100%;
 }
@@ -82,6 +82,7 @@ a:hover {
 
 .slider {
 	height: 100%;
+	margin-top: 62px;
 }
 
 .linea {
@@ -116,7 +117,7 @@ a:hover {
 	margin: 0 auto;
 	width: 250px;
 	height: 50px;
-	background-color: #E91E63;
+	background-color: #274147;
 	top: 140px;
 	position: relative;
 	border-radius: 2%;
@@ -135,6 +136,7 @@ a:hover {
 
 img {
 	width: 100%;
+	
 }
 
 
@@ -149,7 +151,7 @@ img {
 
 .nuestros-inst {
 	width: 33.33%;
-	background-color: #E91E63;
+	background-color: #274147;
 	position: absolute;
 	padding: 1%;
 	bottom: 0px;
@@ -212,8 +214,10 @@ img {
 }
 
 .footer {
-	height: 60px;
-	background-color: #212121;
+  height: 60px;
+  background-color: #212121;
+  position: relative;
+  top: 125px;
 }
 
 

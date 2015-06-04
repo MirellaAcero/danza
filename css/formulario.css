@@ -119,7 +119,7 @@ input:focus, textarea:focus {
 	width: 100%;
 	border: #fbfbfb solid 4px;
 	cursor: pointer;
-	background-color: #E91E63;
+	background-color:  #274147;
 	color: white;
 	font-size: 24px;
 	padding-top: 22px;
@@ -131,7 +131,7 @@ input:focus, textarea:focus {
 
 #button-blue:hover{
 	background-color: rgba(0,0,0,0);
-	color: #E91E63;
+	color: #274147;
 }
 	
 .submit:hover {

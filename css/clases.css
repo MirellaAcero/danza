@@ -45,11 +45,31 @@
 
 .caja {
 	height: 450px;
-	background-color: #616161;
+	background-image: url(../img/profe.jpg);
+}
+.caja1 {
+	height: 450px;
+	background-image: url(../img/profe-2.jpg);
+}
+.caja2 {
+	height: 450px;
+	background-image: url(../img/profe-3.jpg);
+}
+.caja3 {
+	height: 450px;
+	background-image: url(../img/profe-4.jpg);
+}
+.caja4 {
+	height: 450px;
+	background-image: url(../img/profe-5.jpg);
+}
+.caja5 {
+	height: 450px;
+	background-image: url(../img/profe-6.jpg);
 }
 
 .categoria-descripcion {
-	height: 160px;
+	height: 175px;
 	position: relative;
 	background-color: #E0E0E0;
 	top: 290px;

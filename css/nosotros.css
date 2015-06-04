@@ -1,5 +1,5 @@
 .cd-fixed-bg.cd-bg-1 {
-  background-image: url("../img/fondo5.jpg");
+  background-image: url("../img/fondo-6.jpeg");
 }
 
 .box-nosotros {
@@ -37,7 +37,7 @@
 
 .pilares {
 	min-height: 380px;
-	background-image: url(../img/fondo3.jpg);
+	background-image: url(../img/fondo-4.jpg);
 }
 
 [class*="col-"] {
@@ -117,15 +117,12 @@
 }
 
 .section {
-	height: 335px;
-	background-color: #616161;
+	height: 100%;
 }
 
 .categoria1-descripcion1 {
 	height: 100px;
-	position: relative;
 	background-color: #F5F5F5;
-	top: 235px;
 }
 
 .categoria1 {
